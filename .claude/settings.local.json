@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(uv run:*)",
+      "Bash(for f in /Users/sinjhin/WS/A/playing-with-sand-in-black-boxes/session_0*.md)",
+      "Bash(python3:*)"
+    ]
+  }
+}
