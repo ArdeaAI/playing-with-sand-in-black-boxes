@@ -1,0 +1,7 @@
+[project]
+name = "playing-with-sand-in-black-boxes"
+version = "0.1.0"
+description = "Brief history of ML / AI and a journey from home-baked perceptrons to agentic systems"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
