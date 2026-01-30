@@ -1,0 +1,13 @@
+- Feedback
+    - Addie: privacy and open source
+    - Jeff: Start with metadata and context loading and show that it can use that
+        - A lot of interest in RAG
+    - Emily: Could the first session be pre-work
+    - Jeff: Have the first session be overview, example, and then a description of the other sessions so they can choose which one they want to be working on
+    - Addie: would rather do the homework stuff in-between session
+    - Scratch the surface and do broad strokes over the industry for the non-tech route
+    - Jeff & Addie: Index of terms, and make sure you hit all the big terms in the overview “how we got here”
+    - Emily: ELI5 to bring together and then expend from that
+    - Dan: Simple Diagrams
+    - Jeff: Gave me the idea to go vertical with the tech/non-tech instead of the horizontal one
+    - Emily: Start with what’s the need, find your audience first
